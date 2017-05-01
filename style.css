@@ -1,0 +1,30 @@
+html, body, #body {
+  height: 100%;
+  margin: 0;
+  background: #EEEEEE;
+}
+
+#body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: Lato, sans-serif;
+  color: #2C3E50;
+}
+
+h1, p {
+  margin: 0 0 10.5px;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+a {
+  color: #18BC9C;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
